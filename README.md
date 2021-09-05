@@ -3,3 +3,5 @@
 * [add new link](https://github.com/mr50g/md_test/edit/main/README.md)
 
 https://github.com/mr50g/md_test/edit/main/README.md
+
+nowy tekst
